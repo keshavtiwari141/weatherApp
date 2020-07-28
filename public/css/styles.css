@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    background-image: url(img/sky);
+}
+
+/* .header{
+    width: 100%;
+    position: fixed;        
+    background: #333;
+    padding: 10px 0;
+    color: #fff;
+    text-decoration: none;
+    
+    display: inline-block;
+    
+}
+.nav-link{
+    font: 40px;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 8px;
+} */
